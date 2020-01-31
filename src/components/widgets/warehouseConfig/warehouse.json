@@ -1,0 +1,4 @@
+{
+    "warehouseitem":["Conductor Phase","Equipment Make","Equipment Mounting","Equipment Type","Equipment Use","Pole Class"],
+    "conductorType":["HT","LT"]
+}
